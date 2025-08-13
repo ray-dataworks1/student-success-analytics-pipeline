@@ -1,0 +1,30 @@
+file_name,column_name,profiling_type,null_count,distinct_count,min_value,max_value
+synthetic_edtech_data.csv,Student ID,full,0,500,,
+synthetic_edtech_data.csv,Age,full,0,22,18.0,39.0
+synthetic_edtech_data.csv,Gender,full,0,3,,
+synthetic_edtech_data.csv,Learning Disabilities,full,0,2,,
+synthetic_edtech_data.csv,Enrollment Date,full,0,436,,
+synthetic_edtech_data.csv,Subscription Type,full,0,2,,
+synthetic_edtech_data.csv,Cumulative Learning Progress (%),full,0,500,40.01658595931048,84.96595653340762
+synthetic_edtech_data.csv,Retention Rate (weekly),full,0,500,0.5011459250398246,0.8992269935315652
+synthetic_edtech_data.csv,Retention Rate (monthly),full,0,500,0.4006137730030381,0.799724652038785
+synthetic_edtech_data.csv,Time to Master Key Concepts,full,0,30,10.0,39.0
+synthetic_edtech_data.csv,Math,full,0,500,50.00201170671443,89.933107744495
+synthetic_edtech_data.csv,Science,full,0,500,50.03399945916405,89.91652067825902
+synthetic_edtech_data.csv,History,full,0,500,50.00760756357813,89.98471551325545
+synthetic_edtech_data.csv,English,full,0,500,50.04362832737706,89.99382556272681
+synthetic_edtech_data.csv,Geography,full,0,500,50.0400308825466,89.86437886078559
+synthetic_edtech_data.csv,Quiz Session Date,full,0,224,,
+synthetic_edtech_data.csv,Quiz ID,full,0,20,,
+synthetic_edtech_data.csv,Quiz Topic/Subject,full,0,5,,
+synthetic_edtech_data.csv,Quiz Score,full,0,50,50.0,99.0
+synthetic_edtech_data.csv,Time Spent on Quiz,full,0,20,5.0,24.0
+synthetic_edtech_data.csv,Flashcards Used,full,0,2,,
+synthetic_edtech_data.csv,Flashcard Accuracy,full,6386,40,60.0,99.0
+synthetic_edtech_data.csv,Total Active Sessions (weekly),full,0,3,2.0,4.0
+synthetic_edtech_data.csv,Session Duration,full,0,150,30.0,179.0
+synthetic_edtech_data.csv,Device Used,full,0,2,,
+synthetic_edtech_data.csv,Satisfaction Rating,full,3349,5,1.0,5.0
+synthetic_edtech_data.csv,Feedback Type,full,3349,3,,
+synthetic_edtech_data.csv,Date of Feedback,full,3349,200,,
+synthetic_edtech_data.csv,Comments/Sentiment,full,3349,3,,

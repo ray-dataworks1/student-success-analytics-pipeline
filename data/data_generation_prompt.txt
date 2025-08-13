@@ -1,0 +1,62 @@
+Create a detailed, synthetic dataset for an EdTech platform that tracks learner progress, engagement, and outcomes. The dataset should focus on:
+
+Learner Demographics:
+
+Student ID
+
+Age
+
+Gender
+
+Learning Disabilities (ND/Non-ND)
+
+Enrollment Date
+
+Subscription Type (free/premium)
+
+Learner Activity:
+
+Quiz Session Date
+
+Quiz ID
+
+Quiz Topic/Subject
+
+Quiz Score
+
+Time Spent on Quiz
+
+Flashcards Used (Yes/No)
+
+Flashcard Accuracy (score)
+
+Total Active Sessions (weekly)
+
+Session Duration
+
+Device Used (Mobile/Desktop)
+
+Learning Outcomes:
+
+Cumulative Learning Progress (%) per learner
+
+Percentage of Correct Answers in Specific Topics
+
+Retention Rate (weekly, monthly)
+
+Time to Master Key Concepts
+
+User Feedback & Sentiment:
+
+Satisfaction Rating (1-5)
+
+Feedback Type (bug/feature request/suggestion)
+
+Date of Feedback
+
+Comments/Sentiment (positive/negative/neutral)
+
+The dataset should be clean, contain realistic patterns (such as variation in scores, frequent quiz-takers vs. infrequent ones, and different ND/non-ND learner outcomes). It should have at least 500 learners with 2-3 months of activity data, and feature diverse learning journeys, especially for ND learners. Create mock data that I can use to analyze learning outcomes, user engagement, and identify potential areas for improvement in the product.
+
+
+Pro-Tip: Use ChatGPT 5-Thinking or ChatGPT o3
