@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pip/
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# dbt artifacts (can be useful to keep logs and target out of repo)
+dbt_modules/
+dbt_packages/
+logs/
+target/
+
+# Local configs
+profiles.yml
+*.dbt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode config
+.vscode/
+
+# Secrets
+.env
+.env.*
+
+# Data files (optional – comment these out if you want data tracked!)
+# *.csv
+# *.tsv
+# *.parquet
+# *.sqlite
+# *.db
+
+# Mac trash
+.Trashes
+
+# Python cache
+*.pyo
+
+# Misc
+*.log
